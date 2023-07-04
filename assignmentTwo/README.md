@@ -5,8 +5,8 @@
 In this assignment, you are going to create a simple ToDo application. You will not need to make anything of it persistent, that is, no database or saving of data is necessary. The objective is to work with input and lists. See below for an example look at the application.
 
 <div style="text-align: center;">
-  <img src="/images/todo1.png" width="300" />
-  <img src="/images/todo2.png" width="300" /> 
+  <img src="/images/todo1.jpg" width="300" />
+  <img src="/images/todo2.jpg" width="300" /> 
 </div>
 
 
