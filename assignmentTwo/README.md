@@ -1,61 +1,22 @@
-# Personal Card Flutter App
+# Assignment 2: ToDo list
 
-## assignment 1
+## The ToDo list
 
-This is a simple flutter application that creates a personal card with user's details.
+In this assignment, you are going to create a simple ToDo application. You will not need to make anything of it persistent, that is, no database or saving of data is necessary. The objective is to work with input and lists. See below for an example look at the application.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* You have installed Flutter SDK. 
-* You have a suitable editor for coding (for example, Visual Studio Code).
-* You have installed Dart SDK.
-* Google Chrome is installed on your machine.
-
-## Running the Personal Card Flutter App
-
-To run and set up the project locally, follow these steps:
-
-1. Clone the repository to your local machine using this command "where flutter sdk is installed": **C:\flutterApps** maybe.
-2. Open the project in Visual Studio Code
-
-3. Navigate into the cloned repository's directory:
-4. Open terminal and the dependencies for the flutter project:
-
-    ```bash  
-    flutter pub get
-    ```
-
-5. If you haven't installed any emulators, you can choose Chrome as your target device to run your application. To do this, go to the bottom-right status bar, click on the device selector and choose `Chrome (web-javascript)`.
-6.  Navigate to the `lib` directory, right click on `main.dart` and select 'Run without debugging'. A browser window should pop up with the application running.
-
-## If you are totally lost then follow these beginner tutorials
-
-[CODEMY.COM](https://www.youtube.com/watch?v=pTJJsmejUOQ)
-
-## Assignment 1: Personal Card
-
-In this assignment, we want you to create a static Flutter application that shows some information about you. The final result could look something like below.
+<div style="text-align: center;">
+  <img src="/images/todo1.png" width="300" />
+  <img src="/images/todo2.png" width="300" /> 
+</div>
 
 
-Yeah, horrible image... That aside, your creation should contain the following:
+The following are the requirements for the application:
 
-* An image, possibly of you but that is not a requirement
-* A text with a decorative or handwritten font from Google Fonts
-* Your (or whatever you do this for) title in bold
-* Three rows of information with an icon before it
-* 
-In addition to this, you could make your image circular and the information on a card, like seen above. But, and this is important, you do not **need** to do something that looks exactly as above -- you are free to make decisions as long as the four points above are met.
+- Text can be entered and put in a scrollable list (that is, it should scroll when there is no more room)
+- If an item is clicked, it should be removed from the list and the text set into the text field
+- Following the above, the new text can be put last on the list
 
-## Emulator Information
+As with the previous assignment, it does not have to look exactly like this. The text input can be below the scrollable list and the colours could be different. The text field could have a nice decoration and you are free to add images and icons where you see fit.
 
-For this project, I use Nexus 6 emulator. The specifications are as follows:
-
-* Device: Nexus 6
-* Size: 5.96"
-* Resolution: 1440x2560
-* Density: 560 dpi
-
-[![Chrome web](./images/chrome.jpg)](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-[![Nexus 6 API 30 (android-x86 emulator)](./images/nexus6.jpg)](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+**IMPORTANT!**
+Do not forget to run **flutter clean** before handing in.
