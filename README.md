@@ -1,4 +1,4 @@
-# [Introduction to App Development with Flutter](https://lnu.se/en/course/introduction-to-app-development-with-flutter/vaxjo-distance-international-part-time-summer/)
+# [Introduction to App Development with Flutter Linneas University](https://lnu.se/en/course/introduction-to-app-development-with-flutter/vaxjo-distance-international-part-time-summer/)
 
 ### [Assignment 1: The Me card](./assignmentOne/README.md)
 
