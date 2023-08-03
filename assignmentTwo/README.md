@@ -71,5 +71,5 @@ Architecture: x86_64
 
 ## If you are totally lost then follow these beginner tutorials
 
-[CODEMY.COM](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+[CODEMY.COM](https://www.youtube.com/watch?v=VFDbZk2xhO4&list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BAOku)
 ***
