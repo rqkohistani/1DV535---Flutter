@@ -32,8 +32,7 @@ To run and set up the project locally, follow these steps:
 
 ## If you are totally lost then follow these beginner tutorials
 
-[CODEMY.COM](https://www.youtube.com/watch?v=pTJJsmejUOQ)
-
+[CODEMY.COM](https://www.youtube.com/watch?v=VFDbZk2xhO4&list=PLCC34OHNcOtpx9qCZNv-NbIT1Gx3BAOku)
 ## Assignment 1: Personal Card
 
 In this assignment, we want you to create a static Flutter application that shows some information about you. The final result could look something like below.
