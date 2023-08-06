@@ -4,7 +4,7 @@
 
 ### [Assignment 2: ToDO list](./assignmentTwo/README.md)
 
-### [Assignment 3: Weather Application](./assignmentThree/README.md)
+### [Assignment 3: Weather Application](./assignment?three/README.md)
 
 ***
 
